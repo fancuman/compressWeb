@@ -1,0 +1,27 @@
+{
+  "name": "compressWeb",
+  "version": "1.0.0",
+  "description": "\"# compressWeb\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "help": "echo \"node compressfile.js -i [file_folder] -d\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fancuman/compressWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fancuman/compressWeb/issues"
+  },
+  "homepage": "https://github.com/fancuman/compressWeb#readme",
+  "dependencies": {
+    "clean-css": "^4.2.3",
+    "commander": "^7.0.0",
+    "html-minifier": "^4.0.0",
+    "uglify-js": "^3.12.5"
+  }
+}
